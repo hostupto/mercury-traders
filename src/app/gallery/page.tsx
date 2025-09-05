@@ -11,65 +11,52 @@ export default function GalleryPage() {
   }, [])
 
   const projects = [
-    {
-      title: "Industrial Iron Scrap Collection",
-      image: "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=500&h=400&fit=crop",
-      description: "Large scale iron scrap collection from manufacturing units",
-      details: "Collected over 50 tons of iron scrap from various industrial units",
-      category: "Industrial",
-    },
-    {
-      title: "Office Paper Recycling Project",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=400&fit=crop",
-      description: "Complete office paper and document recycling services",
-      details: "Monthly paper collection service for 25+ corporate offices",
-      category: "Commercial",
-    },
+ 
     {
       title: "Furniture Disposal Service",
-      image: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=500&h=400&fit=crop",
+      image: "/images/images1.webp",
       description: "Old furniture collection and recycling",
       details: "Helped 100+ households dispose of old furniture responsibly",
       category: "Residential",
     },
     {
       title: "Electronic Waste Management",
-      image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500&h=400&fit=crop",
+      image: "/images/images2.webp",
       description: "Safe disposal of electronic components and devices",
       details: "Processed electronic waste from IT companies and households",
       category: "Electronic",
     },
     {
       title: "Cotton Box Collection Drive",
-      image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&h=400&fit=crop",
+      image: "/images/images3.webp",
       description: "Textile industry cotton box and fabric waste collection",
       details: "Regular collection service for textile manufacturing units",
       category: "Textile",
     },
     {
       title: "Mixed Scrap Sorting Facility",
-      image: "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=500&h=400&fit=crop",
+      image: "/images/images4.webp",
       description: "Professional sorting and categorization of mixed scrap materials",
       details: "Established efficient sorting system for maximum value recovery",
       category: "Mixed",
     },
     {
       title: "Construction Site Cleanup",
-      image: "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=500&h=400&fit=crop",
+      image: "/images/images5.webp",
       description: "Construction waste and metal scrap collection",
       details: "Cleared construction debris from multiple building projects",
       category: "Construction",
     },
     {
       title: "Hospital Equipment Disposal",
-      image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?w=500&h=400&fit=crop",
+      image: "/images/images6.webp",
       description: "Safe disposal of old medical equipment and furniture",
       details: "Specialized service for healthcare facilities",
       category: "Medical",
     },
     {
       title: "School Furniture Recycling",
-      image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=500&h=400&fit=crop",
+      image: "/images/images7.webp",
       description: "Educational institution furniture and equipment disposal",
       details: "Helped schools upgrade by responsibly disposing old furniture",
       category: "Educational",

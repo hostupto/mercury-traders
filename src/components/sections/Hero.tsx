@@ -43,7 +43,7 @@ export default function Hero() {
           <div className="relative">
             <div className="bg-white p-4 transform rotate-3 shadow-xl polaroid-tilt">
               <img
-                src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500&h=400&fit=crop"
+                src="/images/images6.webp"
                 alt="Scrap materials and recycling"
                 className="w-full h-80 object-cover rounded"
               />

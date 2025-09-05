@@ -14,7 +14,7 @@ export default function About() {
           <div className="relative">
             <div className="bg-white p-3 transform -rotate-2 shadow-lg">
               <img
-                src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=500&h=400&fit=crop"
+                src="/images/images8.webp"
                 alt="Scrap collection and sorting"
                 className="w-full h-80 object-cover"
               />

@@ -34,7 +34,7 @@ export default function AboutPage() {
             <div className="relative">
               <div className="bg-white p-3 transform -rotate-2 shadow-lg">
                 <img
-                  src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=600&h=400&fit=crop"
+                  src="/images/images1.webp"
                   alt="Mercury Traders facility"
                   className="w-full h-80 object-cover"
                 />

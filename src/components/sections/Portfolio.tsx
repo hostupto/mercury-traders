@@ -1,23 +1,24 @@
 export default function Portfolio() {
   const projects = [
     {
-      image: "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
+      image: "/images/images1.webp",
     },
     {
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop",
+      image: "/images/images2.webp",
     },
     {
-      image: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400&h=300&fit=crop",
+      image: "/images/images3.webp",
     },
     {
-      image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
+      image: "/images/images4.webp",
     },
     {
-      image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=300&fit=crop",
+      image: "/images/images5.webp",
     },
     {
-      image: "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=400&h=300&fit=crop",
+      image: "/images/images6.webp",
     },
+
   ]
 
   return (
