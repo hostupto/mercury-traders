@@ -25,7 +25,7 @@ export default function ContactPage() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
 
-    const whatsappMessage = `Hi Mercury Traders!
+    const whatsappMessage = `Hi Mercy Traders!
 
 Name: ${formData.name}
 Phone: ${formData.phone}
@@ -73,7 +73,7 @@ I'm interested in your scrap buying services. Please provide a quote.`
               <div className="bg-white p-6 transform -rotate-2 shadow-lg">
                 <h2 className="text-3xl font-bold text-gray-800 mb-4">Get In Touch</h2>
                 <p className="text-gray-700">
-                  Ready to sell your scrap materials? Contact Mercury Traders for the best rates and professional
+                  Ready to sell your scrap materials? Contact Mercy Traders for the best rates and professional
                   service.
                 </p>
               </div>
@@ -100,9 +100,7 @@ I'm interested in your scrap buying services. Please provide a quote.`
                     <p className="text-gray-700">
                       <strong>Proprietor:</strong> JA Rajasth
                     </p>
-                    <p className="text-gray-700">
-                      <strong>GSTIN:</strong> 33BA CPA5097A1ZC
-                    </p>
+                   
                   </div>
                 </div>
 

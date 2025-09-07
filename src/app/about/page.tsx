@@ -18,7 +18,7 @@ export default function AboutPage() {
       <section className="bg-gradient-to-br from-blue-600 to-teal-600 py-20 text-white">
         <div className="container mx-auto px-4 text-center">
           <div className="bg-white text-gray-800 p-4 inline-block transform -rotate-2 shadow-lg mb-6">
-            <h1 className="text-4xl font-bold">About Mercury Traders</h1>
+            <h1 className="text-4xl font-bold">About Mercy Traders</h1>
           </div>
           <div className="bg-yellow-100 text-gray-700 p-3 inline-block transform rotate-1 shadow-md">
             <p className="text-lg">Your trusted partner in scrap trading since years</p>
@@ -35,7 +35,7 @@ export default function AboutPage() {
               <div className="bg-white p-3 transform -rotate-2 shadow-lg">
                 <img
                   src="/images/images1.webp"
-                  alt="Mercury Traders facility"
+                  alt="Mercy Traders facility"
                   className="w-full h-80 object-cover"
                 />
                 <div className="mt-2 text-center">
@@ -49,7 +49,7 @@ export default function AboutPage() {
               <div className="bg-white p-6 transform rotate-1 shadow-lg">
                 <h2 className="text-3xl font-bold text-gray-800 mb-4">Our Story</h2>
                 <p className="text-gray-700 leading-relaxed">
-                  Mercury Traders has been serving the scrap trading industry with dedication and integrity. Under the
+                  Mercy Traders has been serving the scrap trading industry with dedication and integrity. Under the
                   leadership of <strong>Prop. JA Rajasth</strong>, we have built a reputation for fair pricing, reliable
                   service, and professional handling of all types of scrap materials.
                 </p>
@@ -108,15 +108,7 @@ export default function AboutPage() {
               </p>
             </div>
 
-            <div className="bg-white p-6 transform rotate-2 shadow-lg">
-              <h3 className="text-xl font-bold text-gray-800 mb-4">Registration</h3>
-              <p className="text-gray-700">
-                <strong>GSTIN:</strong> 33BA CPA5097A1ZC
-              </p>
-              <p className="text-gray-600 text-sm mt-2">
-                Fully licensed and registered business ensuring legal compliance
-              </p>
-            </div>
+ 
 
             <div className="bg-white p-6 transform -rotate-2 shadow-lg">
               <h3 className="text-xl font-bold text-gray-800 mb-4">Specialization</h3>

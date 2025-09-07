@@ -16,7 +16,7 @@ export default function Contact() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
 
-    const whatsappMessage = `Hi Mercury Traders!
+    const whatsappMessage = `Hi Mercy Traders!
     
 Name: ${formData.name}
 Phone: ${formData.phone}
@@ -60,9 +60,7 @@ I'm interested in your scrap buying services.`
                 <p className="text-gray-700">
                   <strong>Prop:</strong> JA Rajasth
                 </p>
-                <p className="text-gray-700">
-                  <strong>GSTIN:</strong> 33BA CPA5097A1ZC
-                </p>
+           
               </div>
 
               <div className="bg-green-100 p-4 transform -rotate-1 shadow-md">

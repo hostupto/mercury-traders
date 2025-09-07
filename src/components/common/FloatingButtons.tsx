@@ -20,7 +20,7 @@ export default function FloatingButtons() {
 
   const openWhatsApp = () => {
     window.open(
-      "https://wa.me/919551388000?text=Hi Mercury Traders! I need information about your scrap buying services.",
+      "https://wa.me/919551388000?text=Hi Mercy Traders! I need information about your scrap buying services.",
       "_blank",
     )
   }

@@ -15,7 +15,7 @@ const caveat = Caveat({
 })
 
 export const metadata = {
-  title: "Mercury Traders - All Kind of Scrap Buyers",
+  title: "Mercy Traders - All Kind of Scrap Buyers",
   description:
     "Professional scrap buying services for iron, cotton box, papers, furniture and all types of scrap materials.",
     generator: 'v0.app'

@@ -28,7 +28,7 @@ export default function Header() {
               </div>
             </div>
             <div>
-              <h1 className="text-gray-800 font-bold text-xl">Mercury Traders</h1>
+              <h1 className="text-gray-800 font-bold text-xl">Mercy Traders</h1>
               <p className="text-gray-700 text-xs">All Kind of Scrap Buyers</p>
             </div>
           </Link>

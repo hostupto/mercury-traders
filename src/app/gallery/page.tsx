@@ -136,7 +136,7 @@ export default function GalleryPage() {
           <div className="bg-white text-gray-800 p-6 inline-block transform rotate-2 shadow-xl max-w-2xl">
             <h2 className="text-3xl font-bold mb-4">Ready to Start Your Project?</h2>
             <p className="text-gray-700 mb-6">
-              Join thousands of satisfied customers who trust Mercury Traders for their scrap disposal needs.
+              Join thousands of satisfied customers who trust Mercy Traders for their scrap disposal needs.
             </p>
             <button className="bg-gradient-to-r from-green-500 to-blue-500 text-white px-8 py-3 rounded-lg font-bold cursor-pointer hover:shadow-lg transform hover:scale-105 transition-all">
               Get Free Quote Now

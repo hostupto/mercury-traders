@@ -24,7 +24,7 @@ export default function Footer() {
                 </div>
               </div>
               <div>
-                <h3 className="text-xl font-bold">Mercury Traders</h3>
+                <h3 className="text-xl font-bold">Mercy Traders</h3>
                 <p className="text-gray-300 text-sm">All Kind of Scrap Buyers</p>
               </div>
             </div>
@@ -35,9 +35,7 @@ export default function Footer() {
               <p className="text-gray-300">
                 <strong>Prop:</strong> JA Rajasth
               </p>
-              <p className="text-gray-300">
-                <strong>GSTIN:</strong> 33BA CPA5097A1ZC
-              </p>
+      
             </div>
           </div>
 
@@ -83,7 +81,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-gray-700 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <div className="text-center md:text-left mb-4 md:mb-0">
-            <p className="text-gray-400 text-sm">© 2024 Mercury Traders. All rights reserved.</p>
+            <p className="text-gray-400 text-sm">© 2024 Mercy Traders. All rights reserved.</p>
             <p className="text-gray-500 text-xs mt-1">
               Developed by{" "}
               <a

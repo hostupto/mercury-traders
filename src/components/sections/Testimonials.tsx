@@ -2,7 +2,7 @@ export default function Testimonials() {
   const testimonials = [
     {
       name: "Kavitha",
-      text: "Mercury Traders provided excellent service for our office paper recycling. Very professional and fair pricing!",
+      text: "Mercy Traders provided excellent service for our office paper recycling. Very professional and fair pricing!",
       rating: 5,
     },
     {
@@ -22,7 +22,7 @@ export default function Testimonials() {
     },
     {
       name: "Meenakshi",
-      text: "Fair prices and honest dealing. Mercury Traders is our go-to for all scrap materials.",
+      text: "Fair prices and honest dealing. Mercy Traders is our go-to for all scrap materials.",
       rating: 5,
     },
     {
@@ -48,7 +48,7 @@ export default function Testimonials() {
             <h2 className="text-4xl font-bold text-gray-800">What Our Customers Say</h2>
           </div>
           <div className="bg-green-100 p-3 inline-block transform rotate-2 shadow-md">
-            <p className="text-gray-700 font-medium">25K+ satisfied customers trust Mercury Traders</p>
+            <p className="text-gray-700 font-medium">25K+ satisfied customers trust Mercy Traders</p>
           </div>
         </div>
 
