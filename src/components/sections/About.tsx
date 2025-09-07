@@ -36,7 +36,7 @@ export default function About() {
             <div className="space-y-6">
               <div className="bg-yellow-100 p-4 transform -rotate-1 shadow-md torn-edge">
                 <p className="text-gray-800 leading-relaxed font-medium">
-                  <strong className="font-bold text-xl tracking-wide">Prop. JA Rajasth</strong> - Leading scrap trading
+                  <strong className="font-bold text-xl tracking-wide">Prop. JA Rajesh</strong> - Leading scrap trading
                   business with over a decade of experience in the industry.
                 </p>
               </div>
@@ -47,13 +47,7 @@ export default function About() {
                   scrap, papers, and furniture scrap.
                 </p>
               </div>
-
-              <div className="bg-blue-100 p-4 transform -rotate-1 shadow-md">
-                <p className="text-gray-800 leading-relaxed font-medium">
-                  <strong className="font-bold text-xl tracking-wide">GSTIN:</strong> 33BA CPA5097A1ZC - Fully licensed
-                  and registered business ensuring transparent transactions.
-                </p>
-              </div>
+ 
             </div>
 
             <div className="flex flex-wrap gap-4">

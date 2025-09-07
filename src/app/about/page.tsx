@@ -50,7 +50,7 @@ export default function AboutPage() {
                 <h2 className="text-3xl font-bold text-gray-800 mb-4">Our Story</h2>
                 <p className="text-gray-700 leading-relaxed">
                   Mercy Traders has been serving the scrap trading industry with dedication and integrity. Under the
-                  leadership of <strong>Prop. JA Rajasth</strong>, we have built a reputation for fair pricing, reliable
+                  leadership of <strong>Prop. JA Rajesh</strong>, we have built a reputation for fair pricing, reliable
                   service, and professional handling of all types of scrap materials.
                 </p>
               </div>
@@ -101,7 +101,7 @@ export default function AboutPage() {
             <div className="bg-white p-6 transform -rotate-1 shadow-lg">
               <h3 className="text-xl font-bold text-gray-800 mb-4">Proprietor</h3>
               <p className="text-gray-700">
-                <strong>JA Rajasth</strong>
+                <strong>JA Rajesh</strong>
               </p>
               <p className="text-gray-600 text-sm mt-2">
                 Experienced professional with years of expertise in scrap trading

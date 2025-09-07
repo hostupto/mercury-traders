@@ -58,7 +58,7 @@ I'm interested in your scrap buying services.`
               <div className="bg-blue-100 p-4 transform rotate-1 shadow-md">
                 <h3 className="font-bold text-xl text-gray-800 tracking-wide mb-2">Contact Details</h3>
                 <p className="text-gray-700">
-                  <strong>Prop:</strong> JA Rajasth
+                  <strong>Prop:</strong> JA Rajesh
                 </p>
            
               </div>

@@ -98,7 +98,7 @@ I'm interested in your scrap buying services. Please provide a quote.`
                   <h3 className="font-bold text-xl text-gray-800 mb-3">🏢 Business Details</h3>
                   <div className="space-y-1">
                     <p className="text-gray-700">
-                      <strong>Proprietor:</strong> JA Rajasth
+                      <strong>Proprietor:</strong> JA Rajesh
                     </p>
                    
                   </div>

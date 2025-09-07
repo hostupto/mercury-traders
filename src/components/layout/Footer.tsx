@@ -33,7 +33,7 @@ export default function Footer() {
             </p>
             <div className="space-y-1">
               <p className="text-gray-300">
-                <strong>Prop:</strong> JA Rajasth
+                <strong>Prop:</strong> JA Rajesh
               </p>
       
             </div>
